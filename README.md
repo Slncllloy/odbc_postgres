@@ -13,4 +13,5 @@ https://www.postgresql.org/ftp/odbc/versions/msi/
 
 Для DataSource введите >>"DSN=<your_dsn_source>;"
 
-Введите SQL запрос
+Введите SQL запрос<h6>
+В разработке
